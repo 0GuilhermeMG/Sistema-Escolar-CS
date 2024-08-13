@@ -1,0 +1,1 @@
+Sistema escolar criado utilizando C# com o framework ASP.NET, JQuery, Bootstrap, banco de dados, sistema consegue adicionar instituições, departamentos, alunos e professores, sistema de login para acessar.
